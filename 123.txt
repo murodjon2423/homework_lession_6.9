@@ -1,0 +1,10 @@
+Python tilining asosiy sintaksisi (syntax).
+O'zgaruvchilar va ma'lumot turlari.
+To'plamlar (lists, tuples, va dictionaries).
+If-shart operatori va shartlar.
+For va while tsikllari.
+Funksiyalar va funksiya argumentlari.
+Modullar va ularga kirish.
+Foydalanuvchi bilan interaksiya (input va output).
+Foydalanuvchi interfeysi (GUI) yaratish.
+Fayllar bilan ishlash.
